@@ -1,4 +1,4 @@
-# Docling PDF to Text Converter
+# PDF to Text Converter
 A Python script that converts PDF files to text using the docling library. This tool is designed to batch process PDF files, making it easy to extract text content from multiple documents at once.
 
 ## Features
